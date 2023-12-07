@@ -1,4 +1,4 @@
-# Imoh Akwang
+# Climate Data Scientist
 
 ## Education:
 Electronics & Computer Technology - Bsc
@@ -9,7 +9,7 @@ Report Writing | Analytical | Strategic thinker | Details-Oriented | Hands On | 
 ### Hard Skills
 GHG Accounting | Project Management | Digital Communication | Data Analysis, and Visualization | Power BI | Python | Microsoft SQL Server Studio | Prompt Engineering | Statistics | Google Analytics | Emission Factor Database
 
-#### Work Experience
+### Work Experience
 #### Grit & Gumption Co - 2023
 
 Develop and deliver training programs on climate change, sustainable practices, and environmental stewardship.
