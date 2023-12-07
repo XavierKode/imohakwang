@@ -2,6 +2,7 @@
 
 ## Education:
 Electronics & Computer Technology - Bsc
+University of Calabar, Cross River State
 
 ### Soft Skills
 Report Writing | Analytical | Strategic thinker | Details-Oriented | Hands On | Skilled Collaborator | Adaptability | Facilitation | Leadership | Team Oriented | Superior time management | Public Speaking | 
