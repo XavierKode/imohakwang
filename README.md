@@ -10,7 +10,7 @@ Report Writing | Analytical | Strategic thinker | Details-Oriented | Hands On | 
 GHG Accounting | Project Management | Digital Communication | Data Analysis, and Visualization | Power BI | Python | Microsoft SQL Server Studio | Prompt Engineering | Statistics | Google Analytics | Emission Factor Database
 
 #### Work Experience
-Grit & Gumption Co.: Training and Capacity Building:
+#### Grit & Gumption Co - 2023
 
 Develop and deliver training programs on climate change, sustainable practices, and environmental stewardship.
 Create engaging training materials, workshops, and webinars to educate diverse audiences, including corporate professionals, government officials, and community stakeholders.
@@ -21,15 +21,15 @@ Conduct GHG inventories, analyze carbon footprints, and develop tailored sustain
 Lead and manage consulting projects from initiation to completion, ensuring timely delivery and exceeding client expectations.
 Collaborate with cross-functional teams to integrate climate considerations into various aspects of business operations.
 
-#### Work Experience
-TS Diamond Consult Canada: 
+
+#### TS Diamond Consult Canada - 2023: 
 Designed and delivered comprehensive management training program tailored to the unique needs and challenges of the board.
 
 Conducted assessments to identify skills gap and development areas within the board of directors.
 
 Evaluated the effectiveness of training programs through quizzes, assessments, worksheets and feedback.
 
-#### CUSO International Canada (INGO):
+#### CUSO International Canada (INGO) - 2017 2019
 Aligned departmental activities to corporate long term strategic Objectives.
 
 Assisted in planning for program portfolio reviews and analyzing submissions by program coordinator for accuracy and consistency with planned results, benchmarks, funding, meeting planned earmarks, and addressing cross-cutting themes (e.g. gender).
