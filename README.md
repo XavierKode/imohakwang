@@ -1,4 +1,4 @@
-# Climate Data Scientist
+# Imoh Akwang
 
 ## Education:
 Electronics & Computer Technology - Bsc
@@ -43,6 +43,14 @@ Reviewed training manuals and workbooks on business model canvass and green entr
 Participated in Grant Evaluation and selection process.
 
 Facilitator/Trainer in Entrepreneurial Development Training for 12,000 participants over a 5 years period in Cross River State.
+
+#### Achievment & Recognition
+
+invited by CASI New York Knowledge Series as a PANEL MEMBER for a strategic level presentation on sustainability, ESG and Climate Change. 
+
+invited by the World Business Council on Sustainable Development to pilot test the GHG Protocol Land sector and removal guidance as a Supporting partner to provide technical support to the pilot testing companies in the form of implementation resources (such as data and tools), trainings, group calls, and/or other activities
+
+Nominated as one of the experts in Nigeria through our country’s National Focal Points under the UNFCCC, to contribute to a number of processes mandated by the COP, CMP, CMA and the subsidiary bodies
 
 
 #### Portfolio Project
