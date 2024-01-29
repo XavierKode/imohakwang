@@ -57,7 +57,7 @@ Nominated as one of the experts in Nigeria through our country’s National Foca
 #### Portfolio Project
 Climate Change Prediction using Time Series Analysis with Python framework  : Matplotlib, Seaborn, and Numpy.
 
-Twitter Sentiment Analysis using Python, Tweepy & Twitter API
+Health Data Analysis
 
 
 
